@@ -13,7 +13,7 @@ export default {
   },
   methods:{
     buslick () {
-      alert("this.index");
+      alert("this.index");hahaha
     }
   }
 }
