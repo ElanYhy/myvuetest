@@ -175,7 +175,10 @@ export default{
       /*
       绝大多数情况下，我们只会用默认的getter 方法来读取一个计算属性，在业务中很少用到setter,
       所以在声明一个计算属性时，可以直接使用默认的写法，不必将getter 和setter 都声明。
+<<<<<<< Updated upstream
 ffffff
+=======
+>>>>>>> Stashed changes
       */
       // fullname () {
       //   return this.firstname+" "+this.lastname;
